@@ -39,7 +39,7 @@
               SW API
             </a>
             <span class="navbar-item">
-              <a class="button is-primary" href="/">
+              <a class="button is-primary" href="https://github.com/imartyus/sw-demo-sapper" target="_blank">
                 <span class="icon">
                   <i class="fab fa-github"></i>
                 </span>

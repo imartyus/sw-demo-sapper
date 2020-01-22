@@ -4,6 +4,8 @@ I made this application as a reference to learn Svelte framework and also to try
 
 The backend part is simply proxying the requests to SW API to simulate an API server.
 
+Polka server setup will be later used as a reference for new webserver projects.
+
 ### Deployment:
 1. Make a production build with `npm run build`
 2. The output can be run as a Node app with `node __sapper__/build`
